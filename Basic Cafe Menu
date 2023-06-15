@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+.container {
+    background-color: azure;
+    
+}f
+    </style>
+</head>
+<body background="https://img.freepik.com/free-vector/set-coffee-elements-coffee-accessories-vector_53876-66783.jpg?w=740&t=st=1682219555~exp=1682220155~hmac=f26747ee413172e49bf71e94ffa38ed18ad8dfb1247003c8594f4c03928523e8.jpg">
+<!-- ----------------------------------------------------------------------------------------------------------------------------- -->
+   <h4> <center><font size="18"> CAFE  MENU </font></center> </h4>
+   <br>
+   <b>
+   <center>
+    
+    <span><table border="8" bordercolor="Black" height="250" width="50%">
+        <div class="container">
+        <font style="font-family: Georgia, 'Times New Roman', Times, serif;">
+
+        <td><font size="6">COFFEE</font></td>
+        <td><font size="6"><b>PRICE</b></font></td>
+        <tr>
+            <td><font size="5">Capitino</font></td>
+            <td><font size="5">233</font></td>
+        
+        </tr>
+        <tr>
+            <td><font size="5">Hot Coffee</font></td>
+            <td><font size="5">400</font></td>
+        
+        </tr>
+        <tr>
+            <td><font size="5">Cold Coffee</font></td>
+            <td><font size="5">333</font></td>
+        </div>
+        
+        </tr></font>
+        </td></font>
+        </table></span>
+    
+
+        <br>
+        <br>
+<!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
+<div>   
+<span><table border="8" bordercolor="Black" height="250" width="50%">
+        <font style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
+        <td><font size="6"><b>PIZZA</b></font></td>
+        <td><font size="6"><b>PRICE</b></font></td>
+        <tr>
+            <td><font size="5">Mushroom</font></td>
+            <td><font size="5">233</font></td>
+        
+        </tr>
+        <tr>
+            <td><font size="5">Chees</font></td>
+            <td><font size="5">233</font></td>
+        
+        </tr>
+        <tr>
+            <td><font size="5">Peperoni</font></td>
+            <td><font size="5">233</font></td>
+        
+        </tr></font>
+        </td></font>
+        </table></span>
+    </div> 
+        <br>
+        <br>
+<!-- --------------------------------------------------------------------------------------------------------------------------------- -->
+<div>        
+<span>
+            <table border="8" bordercolor="Black" height="250" width="50%">
+                <font style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
+                <td><font size="6"><b>TEA</b></font></td>
+                <td><font size="6"><b>PRICE</b></font></td>
+                <tr>
+                    <td><font size="5">Adrak</font></td>
+                    <td><font size="5">30</font></td>
+                </tr>
+                <tr>
+               <td><font size="5">Milk Tea</font></td>
+                 <td><font size="5">40</font></td>
+                </tr>
+                    <td><font size="5">Water Tea</font></td>
+                    <td><font size="5">50</font></td>
+                </tr></font>
+            </table>
+        </span>
+    </center>
+</div>
+    </b>
+</body>
+</html>
